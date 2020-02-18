@@ -29,3 +29,5 @@ imie = Console.ReadLine();
 
 ### Nagłówek 2.2
 
+Strona [WSEI](http://wsei.edu.pl)
+
