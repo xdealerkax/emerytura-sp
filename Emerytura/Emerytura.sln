@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInteraktywnie", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppVisualBasic", "ConsoleAppVisualBasic\ConsoleAppVisualBasic.csproj", "{2A82E572-166F-434C-99CF-0885A1E53A34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppCoreWsadowo", "ConsoleAppCoreWsadowo\ConsoleAppCoreWsadowo.csproj", "{C32D2D21-340A-4A7B-8655-89828E0D7231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{D49FBBC3-9965-4E8E-A13B-0181B3EC45BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2A82E572-166F-434C-99CF-0885A1E53A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A82E572-166F-434C-99CF-0885A1E53A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A82E572-166F-434C-99CF-0885A1E53A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32D2D21-340A-4A7B-8655-89828E0D7231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32D2D21-340A-4A7B-8655-89828E0D7231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32D2D21-340A-4A7B-8655-89828E0D7231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32D2D21-340A-4A7B-8655-89828E0D7231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49FBBC3-9965-4E8E-A13B-0181B3EC45BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49FBBC3-9965-4E8E-A13B-0181B3EC45BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49FBBC3-9965-4E8E-A13B-0181B3EC45BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49FBBC3-9965-4E8E-A13B-0181B3EC45BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
